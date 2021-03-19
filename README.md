@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Kumar P
 - 👀 I’m interested in learning upcoming new technologies in Electronics field.
-- 🌱 I’m currently learning Electronics and Communication Engineering.
+- 🌱 I’m currently pursuing B.Tech in Electronics and Communication Engineering at Reva University, Bangalore.
 - 📫 How to reach me ...
 
 Contact Me:
