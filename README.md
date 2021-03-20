@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ravi Kumar P
 - 🌱 I’m currently pursuing B.Tech in Electronics and Communication Engineering at Reva University, Bangalore.
 - 👀 I’m interested in learning new technologies in Electronics field.
-- 📫 How to reach me: 8310917416
-- Email ID: ravikumar.p1004@gmail.com
+- 📫 How to reach me: ravikumar.p1004@gmail.com
 
 To visit my blog: https://ravikumar1004.blogspot.com 
 
