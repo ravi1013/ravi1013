@@ -3,8 +3,8 @@
 - 👀 I’m interested in learning new technologies in Electronics field.
 - 📫 How to reach me: 8310917416
 - Email ID: ravikumar.p1004@gmail.com
-- To visit my blog: https://ravikumar1004.blogspot.com
- 
+
+To visit my blog: https://ravikumar1004.blogspot.com 
 Contact Me:
 [Linkedin](https://www.linkedin.com/in/ravi-kumar-p-a659271b3/) | [Twitter](https://twitter.com/ravi_k483) | [Instagram](https://www.instagram.com/ravi_k483/) 
 
