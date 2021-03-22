@@ -5,7 +5,7 @@
 
 🔗Pre-Final Year Project_2020 
 
-Project Name: Automatic Teller machine for visually impaired people.
+Project Name: [Automatic Teller Machine for Visually Impaired People.](https://ravi198world.wordpress.com/2019/10/05/the-journey-begins/2/)
 
 🚧Block Diagrams:
 
