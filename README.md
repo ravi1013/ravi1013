@@ -10,11 +10,13 @@ Project Name: Automatic Teller machine for visually impaired people.
 🚧Block Diagrams:
 
 Part A➡️ https://drive.google.com/file/d/1Mwtt6LHrUG2OWO5EN3ybCRAdGNEhdofJ/view?usp=drivesdk
+
 Part B➡️ https://drive.google.com/file/d/1MwuCYSWoMfqZ5AqHndjy9Pj8aGrahNDM/view?usp=drivesdk
 
 🎥Videos:
 
 Components working before modeling (ATM):▶️https://drive.google.com/file/d/1Mn0Sh9qtg9lKCadd-CohxZeCrOtNNUXh/view?usp=drivesdk
+
 ATM (Model):▶️https://drive.google.com/file/d/1MgR-DEBOl2v8JgWoMHCyTyVZbVds-PgE/view?usp=drivesdk
 
 To visit my blog: https://ravikumar1004.blogspot.com 
