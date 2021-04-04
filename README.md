@@ -25,7 +25,7 @@ Project Name: [DEFENCE ENTRANCE SECURITY FRAMEWORK](https://ravi198world.wordpre
 
 At present I am working on Defence Entrance Security Framework.
 
-WebPage: https://ravi198world.wordpress.com/
+Portfolio: https://ravi198world.wordpress.com/
 To visit my blog: https://ravikumar1004.blogspot.com 
 
 Contact Me:
