@@ -4,7 +4,6 @@
 - 📫 How to reach me: ravikumar.p1004@gmail.com
 
 🔗Pre-Final Year Project_2020 
-
 Project Name: [AUTOMATIC TELLER MACHINE FOR VISUALLY IMPAIRED PEOPLE](https://ravi198world.wordpress.com/2019/10/05/the-journey-begins/2/)
 
 🚧Block Diagrams:
@@ -20,8 +19,8 @@ Components working before modeling (ATM):▶️https://drive.google.com/file/d/1
 ATM (Model):▶️https://drive.google.com/file/d/1MgR-DEBOl2v8JgWoMHCyTyVZbVds-PgE/view?usp=drivesdk
 
 
-🔗Final Year Project_2021
 
+🔗Final Year Project_2021
 Project Name: [DEFENCE ENTRANCE SECURITY FRAMEWORK](https://ravi198world.wordpress.com/2019/10/05/the-journey-begins/3/)
 
 🎥Video: https://drive.google.com/file/d/1sDrWnlne7IoP_o0GlmzZdye4muCX2pUd/view?usp=drivesdk
