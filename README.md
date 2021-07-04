@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning new technologies in Electronics field.
 - 📫 How to reach me: ravikumar.p1004@gmail.com
 
-<!---
+
 🔗Pre-Final Year Project_2020 
 
 Project Name: [AUTOMATIC TELLER MACHINE FOR VISUALLY IMPAIRED PEOPLE](https://ravi198world.wordpress.com/2019/10/05/the-journey-begins/2/)
@@ -31,7 +31,7 @@ Project Name: [DEFENCE ENTRANCE SECURITY FRAMEWORK](https://ravi198world.wordpre
 Portfolio: https://ravi198world.wordpress.com/
 
 To visit my blog: https://ravikumar1004.blogspot.com 
---->
+
 Contact Me:
 [LinkedIn](https://www.linkedin.com/in/ravi-kumar-p-a659271b3/) | [Twitter](https://twitter.com/ravikumar_483) | [Instagram](https://www.instagram.com/ravikumar_483/) 
 
